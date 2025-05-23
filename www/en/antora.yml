@@ -1,8 +1,8 @@
-name: template-course
-title: Template course
+name: labview-event-course
+title: LabVIEW events course
 version: true
 # uncomment the prerelease: attribute when you want the version to be set as prerelease
-# prerelease: -beta
+prerelease: -beta
 nav:
   - modules/ROOT/nav.adoc
 asciidoc:
