@@ -1,0 +1,7 @@
+= Set Up Instructions
+
+NOTE: Add all the instructions needed to take the course in this section.
+
+== Download the course material
+
+* https://labviewcommunitytraining.github.io/Website-Course-Template/course-material.zip[Course material zip]

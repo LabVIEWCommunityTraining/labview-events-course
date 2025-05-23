@@ -1,0 +1,3 @@
+= Instructions de démarrage
+
+NOTE: Ajouter toutes les instruction nécessaire pour suivre le cours.

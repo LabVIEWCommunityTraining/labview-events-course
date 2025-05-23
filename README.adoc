@@ -1,0 +1,5 @@
+= Website Course Template
+
+This repository is the starting point for a new CTI course.
+
+Instruction to create a new course are available https://labviewcommunitytraining.github.io/www/en/new-course.html[here].

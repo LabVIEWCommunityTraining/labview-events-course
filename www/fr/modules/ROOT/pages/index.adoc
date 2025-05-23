@@ -1,0 +1,11 @@
+= Aperçu du cours
+
+Dans cette section, vous devez décrire :
+
+- Un aperçu du contenu du cours
+- Les objectifs
+- Les profils visés
+- Les connaissances pré-requises
+- Les recommandations de cours à suivre avant et après celui-ci
+
+NOTE: Cette page est le point d'entré du cours. 

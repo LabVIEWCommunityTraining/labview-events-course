@@ -1,0 +1,19 @@
+= Course overview
+
+In this section, add:
+
+- an overview of the content
+- the goals
+- the people targeted
+- the prerequisite knowledge
+- the recommended courses to take before and after
+
+NOTE: This page is the entry point of the course. 
+
+== Download
+
+// do not include the PDF download link in the PDF itself. See 
+
+ifeval::["{backend}" != "pdf"]
+* {site-url}/{page-component-name}/{page-component-version}/{page-component-name}.pdf[PDF version of the course]
+endif::[]

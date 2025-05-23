@@ -1,0 +1,6 @@
+= Descripción general
+:page-toclevels: 1
+
+IMPORTANT: {wip}
+
+NOTE: {nt} inglesa
