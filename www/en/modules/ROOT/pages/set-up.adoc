@@ -1,6 +1,8 @@
 = Set Up Instructions
 
-NOTE: Add all the instructions needed to take the course in this section.
+You only need to have a LabVIEW 2020 to open the examples provided in this course.
+
+NOTE: If you don't have access to a {lv} version, see https://labviewcommunitytraining.github.io/www/en/set-up.html[Set-up Instructions] to get a free {lv} environment running.
 
 == Download the course material
 
