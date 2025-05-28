@@ -1,14 +1,31 @@
 = Course overview
 
-In this section, add:
+== 🎯 Course Objective
 
-- an overview of the content
-- the goals
-- the people targeted
-- the prerequisite knowledge
-- the recommended courses to take before and after
+This course provides a practical and in-depth exploration of LabVIEW's Event-driven programming model.  
+You'll learn how to build responsive, maintainable applications using Event Structures, User Events, and best practices for scalable architectures.
 
-NOTE: This page is the entry point of the course. 
+== 👥 Target Audience
+
+* Intermediate LabVIEW developers
+* Engineers designing interactive UIs
+* Developers transitioning from polling to event-driven architectures
+
+== 🗂️ Course Outline
+
+=== Introduction to Events
+
+Understand the motivation behind LabVIEW's event-driven programming.  
+Compare polling-based and event-based interaction strategies.
+
+== ✅ Learning Outcomes
+
+After completing this course, you will be able to:
+
+* Use Event Structures to build responsive UIs
+* Register and generate custom User Events
+* Troubleshoot and avoid common design pitfalls
+* Architect scalable LabVIEW applications using Events
 
 == Download
 
