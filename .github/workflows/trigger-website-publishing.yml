@@ -37,6 +37,8 @@ jobs:
       steps:
         - name: Checkout repository
           uses: actions/checkout@v4
+          with:
+            submodules: true  # This initializes and updates submodules
 
         - name: Zip course-material
           run: |
