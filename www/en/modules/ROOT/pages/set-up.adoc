@@ -6,4 +6,4 @@ NOTE: If you don't have access to a {lv} version, see https://labviewcommunitytr
 
 == Download the course material
 
-* https://labviewcommunitytraining.github.io/Website-Course-Template/course-material.zip[Course material zip]
+* https://labviewcommunitytraining.github.io/labview-events-course/course-material.zip[Course material zip]
