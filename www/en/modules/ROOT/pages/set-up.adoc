@@ -2,8 +2,13 @@
 
 You only need to have a LabVIEW 2020 to open the examples provided in this course.
 
-NOTE: If you don't have access to a {lv} version, see https://labviewcommunitytraining.github.io/www/en/set-up.html[Set-up Instructions] to get a free {lv} environment running.
+NOTE: If you don't have access to a {lv} version, see https://labviewcommunitytraining.github.io/www/en/set-up.html[Set-up {lv} Virtual Machine Instructions] to get a free {lv} environment running.
 
 == Download the course material
 
 * https://labviewcommunitytraining.github.io/labview-events-course/course-material.zip[Course material zip]
+
+The course material consists in a collection of examples code that helps you understand better how events work in {lv}.
+
+.The example project
+image::01-examples-project.png[]
