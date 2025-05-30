@@ -23,10 +23,10 @@ NOTE: This source of events is the corner stones of many event driven architectu
 Example code: 01b - Event Sources - Custom Events.vi
 
 .Front Panel
-image::05-event-sources-user-event-fp.png.png[]
+image::05-event-sources-user-event-fp.png[]
 
 .Diagram
-image::06-event-sources-user-event-dg.png.png[]
+image::06-event-sources-user-event-dg.png[]
 
 == Callback
 
