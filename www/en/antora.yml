@@ -7,3 +7,4 @@ nav:
   - modules/ROOT/nav.adoc
 asciidoc:
   attributes:
+    es: Event Structure

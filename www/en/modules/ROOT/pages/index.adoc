@@ -12,7 +12,7 @@ endif::[]
 == 🎯 Course Objective
 
 This course provides a practical and in-depth exploration of LabVIEW's Event-driven programming model.  
-You'll learn how to build responsive, maintainable applications using Event Structures, User Events, and best practices for scalable architectures.
+You'll learn how to build responsive, maintainable applications using {es}s, User Events, and best practices for scalable architectures.
 
 == 👥 Target Audience
 
@@ -26,6 +26,10 @@ You'll learn how to build responsive, maintainable applications using Event Stru
 
 Understand the motivation behind LabVIEW's event-driven programming.  
 Compare polling-based and event-based interaction strategies.
+
+=== Event Sources
+
+List all kind of sources for events an Event Structure
 
 == ✅ Learning Outcomes
 

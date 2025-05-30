@@ -1,0 +1,14 @@
+= Introduction to events
+:page-toclevels: 1
+
+Events were introduced in {lv} 6.i.
+Before events, user interaction handling was largely dependent on polling controls inside a while loop, leading to inefficient and CPU-intensive designs.
+Event-driven programming enables your VI to react only when something important happens, such as a button click or value change, resulting in cleaner, more responsive UIs.
+
+Events are handled with the Event Structure.
+
+.The Event Structure in the function palette
+image::02-event-structure-in-the-palette.png[]
+
+
+
