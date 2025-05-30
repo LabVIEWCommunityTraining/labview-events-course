@@ -1,5 +1,5 @@
-name: labview-events-course
-title: LabVIEW events course
+name: course_understanding-events
+title: Understanding events
 version: true
 # uncomment the prerelease: attribute when you want the version to be set as prerelease
 prerelease: -beta
