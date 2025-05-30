@@ -15,8 +15,11 @@ image::04-event-sources-ui-dg.png[]
 
 == User Events a.k.a Custom Events
 
-The User Events are probably the worst named {lv} feature.
-Behind this name, you'll find the way to create and generate events programatically
+
+[quote,John Medland. MLUG October 2020]
+User Events, the worst named feature in {lv}
+
+Behind this name, you'll find the way to create and generate events programmatically.
 
 NOTE: This source of events is the corner stones of many event driven architectures. The https://www.dqmh.org[DQMH framework] is probably one of the most popular framework based on the {lv} user event feature.
 
