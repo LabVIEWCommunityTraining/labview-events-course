@@ -1,5 +1,14 @@
 = Course overview
 
+// This content will only appear in the site.
+ifndef::loader-assembler[]
+.PDF version of the course
+[NOTE]
+====
+*You need to access this content offline?* You can downlod the PDF version of the course {site-url}/{page-component-name}/{page-component-version}/_exports/{page-component-name}-{page-component-version}.pdf[here]
+====
+endif::[]
+
 == 🎯 Course Objective
 
 This course provides a practical and in-depth exploration of LabVIEW's Event-driven programming model.  
