@@ -35,11 +35,3 @@ After completing this course, you will be able to:
 * Register and generate custom User Events
 * Troubleshoot and avoid common design pitfalls
 * Architect scalable LabVIEW applications using Events
-
-== Download
-
-// do not include the PDF download link in the PDF itself. See 
-
-ifeval::["{backend}" != "pdf"]
-* {site-url}/{page-component-name}/{page-component-version}/{page-component-name}.pdf[PDF version of the course]
-endif::[]
