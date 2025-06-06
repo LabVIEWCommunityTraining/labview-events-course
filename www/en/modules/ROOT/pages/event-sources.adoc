@@ -36,7 +36,7 @@ image::06-event-sources-user-event-dg.png[]
 
 == Event Callback
 
-This source of event doesn't involve the use of an {ev}.
+This source of event doesn't involve the use of an {es}.
 Once registred to an event the Callback VI is executed each time the event occurs.
 
 NOTE: This kind of event breaks the usal data flow we are used to

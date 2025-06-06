@@ -1,4 +1,6 @@
 = Course overview
+:page-toclevels: 1
+
 
 // This content will only appear in the site.
 ifndef::loader-assembler[]
@@ -30,6 +32,13 @@ Compare polling-based and event-based interaction strategies.
 === Event Sources
 
 List all kind of sources for events an Event Structure
+
+== Event Types
+
+Understand the differnece between filtered and non-filtered events.
+=== Memory Management
+
+Understand how LabVIEW handle the memory when it comes to events. 
 
 == ✅ Learning Outcomes
 

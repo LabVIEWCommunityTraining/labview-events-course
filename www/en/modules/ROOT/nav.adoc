@@ -2,3 +2,5 @@
 * xref:set-up.adoc[Set-up Instructions]
 * xref:intro.adoc[Introduction to Events]
 * xref:event-sources.adoc[Event Sources]
+* xref:event-types.adoc[Event Types]
+* xref:memory-management.adoc[Memory management]
