@@ -1,7 +1,30 @@
 = Event Types
 :page-toclevels: 1
 
+Static events used to handle the {ui} events can be of two types:
 
+== Notify events
 
+Those events trigger their case in the {es} once the event has happened.
+You can't modify it.
 
+NOTE: They have a green arrow in the Edit Events configuration dialog.
 
+== Filter events
+
+Those events trigger their case in the {es} before the event is actually processed in the {ui}.
+This allows you to modify or even discard the event programatically.
+
+NOTE: They have a red arrow in the Edit Events configuration dialog and their names end with a `?`.
+
+In the following example, you can see different ways to interact with an event before actually processing it.
+
+Example code: *02 - Event Types - Filtered.vi*
+
+.Front Panel
+image::14-event-types-fp.png[]
+
+.Diagram
+image::15-event-types-dg.png[]
+
+TIP: One of the most usually used filter events is the `Panel Close?` event. By discarding you can handle the stop of the program without using a btn:[Stop] in your {ui}.
