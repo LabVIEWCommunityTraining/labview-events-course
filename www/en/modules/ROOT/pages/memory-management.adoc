@@ -24,7 +24,7 @@ video::event-memory-allocation.mp4[opts="autoplay,loop",width=640]
 Here are the key points to remember:
 
 . User Events generated before the User Event is registered are not kept in memory 👉 no memory leak.
-. User Events generated after the registration are kept in memory 👉 you should be very careful binding your Registred Events ref to an {ev}
+. User Events generated after the registration are kept in memory 👉 you should be very careful binding your Registred Events ref to an {es}
 . When event are consumed by the {es} the memory is deallocated 👉 to prevent memory issues in your code, you must ensure that {es} is capable of consuming all generated events it is handling.
-. Events not consumed by the {es} are deallocated when calling the `Unregister For Events` function 👉 always call this function when you exit an {ev}.
+. Events not consumed by the {es} are deallocated when calling the `Unregister For Events` function 👉 always call this function when you exit an {es}.
 
