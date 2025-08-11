@@ -27,4 +27,4 @@ image::14-event-types-fp.png[]
 .Diagram
 image::15-event-types-dg.png[]
 
-TIP: One of the most usually used filter events is the `Panel Close?` event. By discarding you can handle the stop of the program without using a btn:[Stop] in your {ui}.
+TIP: One of the most usually used filter events is the `Panel Close?` event. By discarding you can handle the stop of the program without using a btn:[Stop] button in your {ui}.
