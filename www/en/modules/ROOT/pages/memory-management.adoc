@@ -1,13 +1,13 @@
 = Memory management
 :page-toclevels: 1
 
-Memory management is one of the most missunderstanded concept and a source of concerns for {lv} developpers.
+Memory management is one of the most misunderstood concepts and a source of concerns for {lv} developers.
 
-This section gather examples to understand when memory is allocated and deallocated.
+This section gathers examples to understand when memory is allocated and deallocated.
 
 == Basic behavior
 
-In this example, we placed breakpoints at strategic points to see how the memory allocated is changing depending of the code.
+In this example, we placed breakpoints at strategic points to see how the memory allocation changes as the code runs.
 
 Example code: *03a - Memory Management.vi*
 
@@ -23,8 +23,8 @@ video::event-memory-allocation.mp4[opts="autoplay,loop",width=640]
 
 Here are the key points to remember:
 
-. User Events generated before the User Event is registred are not kept in memory 👉 no memory leak.
-. User Events generated after the registration are kept in memory 👉 you should be very carful binding your Registred Events ref to a n {ev}. 
-. When event are consumed by the {es} the memory is deallocated 👉 to avoid memory issue in your code, you must ensure to have an {es} able to cosumes all the event generated.
+. User Events generated before the User Event is registered are not kept in memory 👉 no memory leak.
+. User Events generated after the registration are kept in memory 👉 you should be very careful binding your Registred Events ref to an {ev}
+. When event are consumed by the {es} the memory is deallocated 👉 to prevent memory issues in your code, you must ensure that {es} is capable of consuming all generated events it is handling.
 . Events not consumed by the {es} are deallocated when calling the `Unregister For Events` function 👉 always call this function when you exit an {ev}.
 
