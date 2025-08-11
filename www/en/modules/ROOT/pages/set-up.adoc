@@ -2,7 +2,7 @@
 :page-toclevels: 1
 
 
-You only need to have a LabVIEW 2020 to open the examples provided in this course.
+You need LabVIEW 2020 or later to open the examples provided in this course.
 
 NOTE: If you don't have access to a {lv} version, see https://labviewcommunitytraining.github.io/www/en/set-up.html[Set-up {lv} Virtual Machine Instructions] to get a free {lv} environment running.
 
