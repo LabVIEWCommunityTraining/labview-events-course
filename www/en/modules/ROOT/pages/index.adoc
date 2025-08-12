@@ -36,9 +36,10 @@ List all kind of sources for events an Event Structure
 === Event Types
 
 Understand the differnece between filtered and non-filtered events.
+
 === Memory Management
 
-Understand how LabVIEW handle the memory when it comes to events. 
+Understand how LabVIEW handle the memory when it comes to deal with events. 
 
 == ✅ Learning Outcomes
 
