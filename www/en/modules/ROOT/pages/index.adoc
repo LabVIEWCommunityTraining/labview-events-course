@@ -1,5 +1,5 @@
 = Course overview
-:page-toclevels: 1
+:page-toclevels: 2
 
 
 // This content will only appear in the site.
@@ -33,7 +33,7 @@ Compare polling-based and event-based interaction strategies.
 
 List all kind of sources for events an Event Structure
 
-== Event Types
+=== Event Types
 
 Understand the differnece between filtered and non-filtered events.
 === Memory Management
