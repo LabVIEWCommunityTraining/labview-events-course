@@ -14,3 +14,12 @@ The course material consists in a collection of examples code that helps you und
 
 .The example project
 image::01-examples-project.png[]
+
+== Video
+
+The fisrt release of these examples was made during the 2022 GLA Summit.
+Video of the related presentation presenting the examples is available on  YouTube.
+
+video::ddXp1Itpq0M[youtube]
+
+
